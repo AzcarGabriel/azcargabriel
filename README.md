@@ -5,8 +5,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzcarGabriel&repo=jachkar-museum&theme=gruvbox" />
   </a>
 
-  <a href="https://github.com/AzcarGabriel/jachkar-museum-asset-bundle-creator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzcarGabriel&repo=jachkar-museum-asset-bundle-creator&theme=gruvbox" />
+  <a href="https://github.com/AzcarGabriel/jachkar-museum-backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzcarGabriel&repo=jachkar-museum-backend&theme=gruvbox" />
   </a>
 </p>
 
