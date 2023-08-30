@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- ---------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------>
 
 <h2 align="center"> RoboCup SPL - NAO Robot Ball Perceptor </h2>
 
@@ -20,4 +20,14 @@
   </a>
 </p>
 
-<!-- ---------------------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------------------------>
+
+<h2 align="center"> Videogame experiments </h2>
+
+<p align="center">
+  <a href="https://github.com/AzcarGabriel/Choose-Wisely">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzcarGabriels&repo=choose-wisely&theme=gruvbo" />
+  </a>
+</p>
+
+<!-- ------------------------------------------------------------------------------>
