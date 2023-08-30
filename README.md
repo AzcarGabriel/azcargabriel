@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/AzcarGabriel/Choose-Wisely">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzcarGabriels&repo=choose-wisely&theme=gruvbo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AzcarGabriels&repo=Choose-Wisely&theme=gruvbo" />
   </a>
 </p>
 
